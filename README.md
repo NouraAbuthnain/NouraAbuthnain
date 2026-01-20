@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hi, I’m Noura Abuthnain 👋**
 
-<!--
-**NouraAbuthnain/NouraAbuthnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a Computer Science background with experience in machine learning and deep learning, including work in natural language processing and computer vision. My interests focus on applied, data-driven AI systems and understanding how different models behave when applied to real datasets.
 
-Here are some ideas to get you started:
+My work involves model comparison, experimentation, and evaluation of learning-based systems. I also have experience translating technical ideas into clear, usable implementations, informed by additional experience in UX/UI design and frontend–backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Technologies:**
+- Python, HTML, CSS, JavaScript, Dart  
+- PyTorch, TensorFlow, Keras  
+- React, React Native, Next.js, Flutter  
+- Flask, Node.js, Firebase, MongoDB, MySQL  
+- Figma, Adobe Illustrator, UX/UI Design, FlutterFlow  
+- Git, GitHub
